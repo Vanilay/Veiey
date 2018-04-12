@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##欢迎同行，止于至善
 
 You can use the [editor on GitHub](https://github.com/Vanilay/Veiey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
